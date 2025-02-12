@@ -1,4 +1,6 @@
 # 🏁 Python 迷路ゲーム
+[![Python版 迷路ゲームのデモ](https://img.youtube.com/vi/TPTQM6ZFsOs/0.jpg)](https://youtu.be/TPTQM6ZFsOs)
+
 
 ## 🔹 概要
 このプロジェクトは、C言語で作成した迷路ゲームをPythonに移植したものです。  
